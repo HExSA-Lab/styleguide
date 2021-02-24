@@ -11,5 +11,11 @@ If that works, you probably want to add a subject for your verb.
 Sometimes, rewriting a sentence to avoid the passive voice makes it worse.
 Give it an earnest try, but give up if the alternative seems bad.
 
+If I've set up a paper repo for you, you've probably seen a file named `passive`. This
+is a perl script I stole from [Matt Might][mm] long ago that detects passive voice in your
+TeX and alerts you to it if you want to go hunting. I'd avoid doing that one when you've
+only got hours to go before a submission though.
+
+[mm]: http://matt.might.net/
 [pv]: https://writingcenter.unc.edu/tips-and-tools/passive-voice/
 [melissa]: https://www.cs.hmc.edu/~oneill/
