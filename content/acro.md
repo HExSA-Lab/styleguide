@@ -1,7 +1,7 @@
 +++
 title = "acronyms"
 +++
-Acronyms should only include letters from the beginning of words.
+Acronyms and Initialisms should only include letters from the beginning of words.
 Syntactical Unconditional Parameterized Entity Reification can 
 be turned into SUPER but catS consUming Puppies Exhibiting behavioR
 cannot. 
